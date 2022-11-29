@@ -6,9 +6,9 @@ permalink: /
 # ~$ ls -al
 
 total 12
-drwxr-xr-x 3 hackintoanetwork hackintoanetwork 4096 Nov 29 10:15 .
+drwxr-xr-x 3 hackintoanetwork hackintoanetwork 4096 Nov 29 10:12 .
 drwxr-xr-x 8 hackintoanetwork hackintoanetwork 4096 Nov 29 10:12 ..
-drwxr-xr-x 2 hackintoanetwork hackintoanetwork 4096 Nov 29 10:15 hackintoanetwork
+drwxr-xr-x 2 hackintoanetwork hackintoanetwork 4096 Nov 29 10:12 hackintoanetwork
                                                                                                                                           
 # ~/hackintoanetwork$ cd ./hackintoanetwork && ls -al
 
