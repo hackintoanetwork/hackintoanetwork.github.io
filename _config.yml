@@ -8,7 +8,7 @@ header_pages:
   - about.md
   - contact.md
 
-style: light 
+style: hacker
 
 footer: 'follow me on <a href="https://github.com/hackintoanetwork">Github</a>'
 
