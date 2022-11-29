@@ -23,4 +23,4 @@ drwxr-xr-x 2 root root 4096 Nov 29 10:27 blog
 Hello I'm hackintoanetwork.
 Web Hacker & CTF Player.
 
-# cd ./blog && ls
+# ~/hackintoanetwork$ cd ./blog && ls
