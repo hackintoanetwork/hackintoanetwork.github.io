@@ -10,7 +10,7 @@ header_pages:
 
 style: light 
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: 'follow me on <a href="https://github.com/hackintoanetwork">Github</a>'
 
 # Build settings
 markdown: kramdown
