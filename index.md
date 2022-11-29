@@ -10,7 +10,7 @@ drwxr-xr-x 3 hackintoanetwork hackintoanetwork 4096 Nov 29 10:10 .
 drwxr-xr-x 8 hackintoanetwork hackintoanetwork 4096 Nov 29 10:10 ..
 drwxr-xr-x 2 hackintoanetwork hackintoanetwork 4096 Nov 29 10:10 hackintoanetwork
                                                                                                                                           
-# ~/hackintoanetwork$ cd ./hackintoanetwork && ls -al
+# ~$ cd ./hackintoanetwork && ls -al
 
 total 12
 drwxr-xr-x 2 hackintoanetwork hackintoanetwork 4096 Nov 29 10:10 .
