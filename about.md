@@ -35,7 +35,7 @@ Web Hacker, CTF Player.
 <li>[ 2022-08-12 ] 20th YISF Quals</li>
 <li>[ 2022-08-21 ] 20th YISF Final</li>
 <li>[ 2022-08-27 ] 25th Hacking Camp CTF</li>
-<li>[ 2022-09-03 ] 2nd CTF Jr.</li>
+<li>[ 2022-09-03 ] 2nd 충청권 청소년 해킹방어대회</li>
 <li>[ 2022-09-24 ] CCE 2022 Quals</li>
 <li>[ 2022-10-15 ] WhiteHat contest 2022 Quals</li>
 <li>[ 2022-10-22 ] 더 해킹 챔피언십 주니어 2022 Quals</li>
