@@ -14,7 +14,7 @@ drwxr-xr-x 2 root root 4096 Nov 29 10:00 blog
 
 # root@debian:~# cat hello
 
-Hello I’m hackintoanetwork.
+Hello 👻 I’m hackintoanetwork.
 Web Hacker & CTF Player.
 
 # root@debian:~# cd blog && ls -al
