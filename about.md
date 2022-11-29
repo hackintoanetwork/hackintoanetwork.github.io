@@ -11,8 +11,9 @@ Web Hacker, CTF Player.
 # Profile
   
 E-Mail : hackintoanetwork@gmail.com
-Blog : hackintoanetwork.com
+Tistory : hackintoanetwork.com
 Github : github.com/hackintoanetwork
+HackerOne : hackerone.com/hackintoanetwork
 Instagram : instagram.com/hackintoanetwork
   
 # Activity  
