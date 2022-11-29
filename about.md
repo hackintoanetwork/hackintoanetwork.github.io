@@ -11,10 +11,10 @@ Web Hacker, CTF Player.
 # Profile
   
 <li>E-Mail : hackintoanetwork@gmail.com</li>
-<li>Github : [hackintoanetwork](https://github.com/hackintoanetwork)</li>
-<li>Tistory : [hackintoanetwork.com](https://hackintoanetwork.com)</li>
-<li>HackerOne : [hackintoanetwork](https://hackerone.com/hackintoanetwork)</li>
-<li>Instagram : [hackintoanetwork](https://instagram.com/hackintoanetwork)</li>
+<li>Github :</li> [hackintoanetwork](https://github.com/hackintoanetwork)
+<li>Tistory :</li> [hackintoanetwork.com](https://hackintoanetwork.com)
+<li>HackerOne :</li> [hackintoanetwork](https://hackerone.com/hackintoanetwork)
+<li>Instagram :</li> [hackintoanetwork](https://instagram.com/hackintoanetwork)
   
 # Activity  
 
