@@ -28,8 +28,8 @@ Web Hacker & CTF Player.
 <li>[ 2022-10-15 ] WHITEHAT CONTEST 2022 Quals</li>
 <li>[ 2022-10-22 ] The Hacking Championship Junior 2022 Quals</li>
 <li>[ 2022-10-27 ] Cyber Conflict Exercise 2022 Final</li>
-<li>[ 2022-10-29 ] The 8th Information Security Contest - gifted edu (solo)</li>
-<li>[ 2022-11-05 ] The 8th Information Security Contest - gifted edu (team)</li>
+<li>[ 2022-10-29 ] The 8th Information Security Gifted Edu Contest (solo)</li>
+<li>[ 2022-11-05 ] The 8th Information Security Gifted Edu Contest (team)</li>
 <li>[ 2022-11-10 ] The Hacking Championship Junior 2022 Final</li>
 <li>[ 2022-11-12 ] SECCON CTF 2022 Quals</li>
 
