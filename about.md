@@ -17,7 +17,7 @@ Instagram : instagram.com/hackintoanetwork
   
 # Activity  
 
-CTF Player : Web Hacking  - Participate in CTF at Zer0hour
+CTF Player : Participate in CTF at Zer0hour
   
 # CTF  
   
