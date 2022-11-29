@@ -5,11 +5,11 @@ permalink: /about/
 ---
 # Profile
   
-Name : hackintoanetwork
-E-Mail : hackintoanetwork@gmail.com
-Blog : hackintoanetwork.com
-Github : github.com/hackintoanetwork
-Instagram : instagram.com/hackintoanetwork
+Name : hackintoanetwork  
+E-Mail : hackintoanetwork@gmail.com  
+Blog : hackintoanetwork.com  
+Github : github.com/hackintoanetwork  
+Instagram : instagram.com/hackintoanetwork  
   
 # CTF  
   
