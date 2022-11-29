@@ -6,9 +6,9 @@ permalink: /
 # ~$ ls -al
 
 total 12
-drwxr-xr-x 3 root             root             4096 Nov 29 10:27 .
-drwxr-xr-x 9 root             root             4096 Nov 29 10:27 ..
-drwxr-xr-x 3 root             root             4096 Nov 29 10:28 hackintoanetwork
+drwxr-xr-x 3 root root 4096 Nov 29 10:27 .
+drwxr-xr-x 9 root root 4096 Nov 29 10:27 ..
+drwxr-xr-x 3 root root 4096 Nov 29 10:28 hackintoanetwork
                                                                                                                                           
 # ~$ cd ./hackintoanetwork && ls -al
 
