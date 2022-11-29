@@ -29,7 +29,7 @@ Instagram : instagram.com/hackintoanetwork
 <li>[ 2022-08-27 ] 25th Hacking Camp CTF</li>
 <li>[ 2022-09-03 ] 2nd CTF Jr.</li>
 <li>[ 2022-09-24 ] Cyber Conflict Exercise 2022 Quals</li>
-<li>[ 2022-10-15 ] WHITEHAT CONTEST 2022 Quals</li>
+<li>[ 2022-10-15 ] WhiteHat contest 2022 Quals</li>
 <li>[ 2022-10-22 ] The Hacking Championship Junior 2022 Quals</li>
 <li>[ 2022-10-27 ] Cyber Conflict Exercise 2022 Final</li>
 <li>[ 2022-10-29 ] The 8th Information Security Contest at Gifted Edu (solo)</li>
