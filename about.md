@@ -39,7 +39,7 @@ CTF Player : Participate in CTF at Zer0hour
 <li>[ 2022-10-15 ] WhiteHat contest 2022 Quals</li>
 <li>[ 2022-10-22 ] 더 해킹 챔피언쉽 주니어 Quals</li>
 <li>[ 2022-10-27 ] CCE 2022 Final</li>
-<li>[ 2022-10-29 ] 제 8회 정보보안경진대회 개인전</li>
-<li>[ 2022-11-05 ] 제 8회 정보보안경진대회 팀전</li>
+<li>[ 2022-10-29 ] 제 8회 정보보안경진대회 (solo)</li>
+<li>[ 2022-11-05 ] 제 8회 정보보안경진대회 (team)</li>
 <li>[ 2022-11-10 ] 더 해킹 챔피언쉽 주니어 Final</li>
 <li>[ 2022-11-12 ] SECCON CTF 2022 Quals</li>
