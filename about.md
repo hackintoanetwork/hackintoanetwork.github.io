@@ -5,15 +5,17 @@ permalink: /about/
 ---
 # Profile
   
-  
 Name : hackintoanetwork
 E-Mail : hackintoanetwork@gmail.com
 Blog : hackintoanetwork.com
 Github : github.com/hackintoanetwork
 Instagram : instagram.com/hackintoanetwork
   
-# CTF  
+# Activity  
+
+CTF Player : Web Hacking  - Participate in CTF at Zer0hour
   
+# CTF  
   
 <li>[ 2022-05-07 ] San Diego CTF 2022</li>
 <li>[ 2022-05-28 ] HeroCTF v4</li> 
