@@ -28,7 +28,7 @@ CTF Player : Participate in CTF at Zer0hour
 <li>[ 2022-07-16 ] Chungbuk Hacking Camp 2022</li>
 <li>[ 2022-07-21 ] BDSec CTF 2022</li>
 <li>[ 2022-07-30 ] Aero CTF 2022</li>
-<li>[ 2022-08-05 ] Arab Security Championship</li>
+<li>[ 2022-08-05 ] Arab Security Cyber Wargames</li>
 <li>[ 2022-08-06 ] corCTF 2022</li>
 <li>[ 2022-08-11 ] 3rd KOSPO 웹서비스 정보보안 경진대회</li>
 <li>[ 2022-08-12 ] The 20th YISF Quals</li>
