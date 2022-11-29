@@ -12,6 +12,7 @@ Web Hacker, CTF Player.
   
 <li>E-Mail : hackintoanetwork@gmail.com</li>
 <li>Github : <a href="https://github.com/hackintoanetwork">hackintoanetwork</a></li>
+<li>Twitter : <a href="https://twitter.com/hackintonetwork">hackintonetwork</a></li>
 <li>Tistory : <a href="https://hackintoanetwork.com">hackintoanetwork.com</a></li>
 <li>HackerOne : <a href="https://hackerone.com/hackintoanetwork">hackintoanetwork</a></li>
 <li>Instagram : <a href="https://instagram.com/hackintoanetwork">hackintoanetwork</a></li>
