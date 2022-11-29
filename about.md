@@ -10,15 +10,15 @@ Web Hacker, CTF Player.
   
 # Profile
   
-E-Mail : hackintoanetwork@gmail.com
-Github : github.com/hackintoanetwork
-Tistory : hackintoanetwork.com
-HackerOne : hackerone.com/hackintoanetwork
-Instagram : instagram.com/hackintoanetwork
+<li>E-Mail : hackintoanetwork@gmail.com</li>
+<li>Github : github.com/hackintoanetwork</li>
+<li>Tistory : hackintoanetwork.com</li>
+<li>HackerOne : hackerone.com/hackintoanetwork</li>
+<li>Instagram : instagram.com/hackintoanetwork</li>
   
 # Activity  
 
-CTF Player : Participate in CTF at Zer0hour
+<li>CTF Player : Participate in CTF at Zer0hour</li>
   
 # CTF  
   
