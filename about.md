@@ -17,9 +17,27 @@ Web Hacker, CTF Player.
 <li>HackerOne : <a href="https://hackerone.com/hackintoanetwork">hackintoanetwork</a></li>
 <li>Instagram : <a href="https://instagram.com/hackintoanetwork">hackintoanetwork</a></li>
 
-# Education
+# Awards
 
-<li>[ 2022-12-03 ] 정보보호영재교육원 고등 전문 과정 수료 </li>
+The Hacking Championship Junior 2022 장려상
+(주)우경정보기술
+2022년 11월
+ 
+제 8회 정보보호영재교육원 정보보안경진대회 개인전 최우수상
+건양대학교 총장
+2022년 10월
+ 
+제3회 KOSPO & 영재교육원 웹서비스 정보보안 경진대회 청소년 부문 우수상
+KOSPO & 대구대학교 정보보호영재교육원
+2022년 9월
+ 
+제2회 충청권 청소년 해킹방어대회 최우수상
+대전광역시장
+2022년 9월
+ 
+2022 충북 해킹캠프 BEST HACKER 상
+POC SECURITY
+2022년 7월
 
 # Activity  
 
