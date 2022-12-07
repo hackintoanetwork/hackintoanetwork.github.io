@@ -16,12 +16,15 @@ Web Hacker, CTF Player.
 <li>Tistory : <a href="https://hackintoanetwork.com">hackintoanetwork.com</a></li>
 <li>HackerOne : <a href="https://hackerone.com/hackintoanetwork">hackintoanetwork</a></li>
 <li>Instagram : <a href="https://instagram.com/hackintoanetwork">hackintoanetwork</a></li>
-  
+
+# Education
+
+<li>[ 2022-12-03 ] 정보보호영재교육원 고등 전문 과정 수료 </li>
+
 # Activity  
 
-<li>Information Security Gifted Education</li>
 <li>CTF Player : Participate in CTF at Zer0hour</li>
-  
+
 # CTF  
   
 <li>[ 2022-05-07 ] San Diego CTF 2022</li>
