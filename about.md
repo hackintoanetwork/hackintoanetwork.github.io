@@ -19,7 +19,7 @@ Web Hacker, CTF Player.
   
 # Activity  
 
-<li>Information Security Gifted Education Higher Professional</li>
+<li>Information Security Gifted Education</li>
 <li>CTF Player : Participate in CTF at Zer0hour</li>
   
 # CTF  
