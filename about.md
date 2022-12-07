@@ -27,7 +27,7 @@ Web Hacker, CTF Player.
 
 # Education
 
-<li>[ 2022-12-03 ] 건양대 정보보호영재교육원 고등전문Ⅰ 수료</li>
+<li>[ 2022-12-03 ] 제2권역 정보보호영재교육원 고등전문 과정 수료</li>
 
 # Activity  
 
