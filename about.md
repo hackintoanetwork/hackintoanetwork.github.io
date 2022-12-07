@@ -19,6 +19,7 @@ Web Hacker, CTF Player.
   
 # Activity  
 
+<li>정보보호영재교육원 : 고등 전문 I 수료</li>
 <li>CTF Player : Participate in CTF at Zer0hour</li>
   
 # CTF  
