@@ -25,13 +25,13 @@ Web Hacker, CTF Player.
 <li>The Hacking Championship Junior 2022 장려상</li>
 <li>2022 충북 해킹캠프 BEST HACKER 상</li>
 
-# Education
-
-<li>[ 2022-12-03 ] 건양대 정보보호영재교육원 고등전문I 수료</li>
-
 # Activity  
 
 <li>CTF Player : Participate in CTF at Zer0hour</li>
+
+# Education
+
+<li>[ 2022-12-03 ] 건양대 정보보호영재교육원 고등전문I 수료</li>
 
 # CTF  
   
