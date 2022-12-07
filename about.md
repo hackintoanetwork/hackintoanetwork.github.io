@@ -19,11 +19,15 @@ Web Hacker, CTF Player.
 
 # Awards
 
-<li>The Hacking Championship Junior 2022 장려상</li>
+<li>제2회 충청권 청소년 해킹방어대회 최우수상</li>
 <li>제8회 정보보호영재원 정보보안경진대회 개인전 충청권 최우수상</li>
 <li>제3회 KOSPO 웹서비스 정보보안 경진대회 청소년 부문 우수상</li>
-<li>제2회 충청권 청소년 해킹방어대회 최우수상</li>
+<li>The Hacking Championship Junior 2022 장려상</li>
 <li>2022 충북 해킹캠프 BEST HACKER 상</li>
+
+# Education
+
+<li>[ 2022-12-03 ] 정보보호영재교육원 고등전문Ⅰ 수료</li>
 
 # Activity  
 
