@@ -17,6 +17,10 @@ Web Hacker, CTF Player.
 <li>HackerOne : <a href="https://hackerone.com/hackintoanetwork">hackintoanetwork</a></li>
 <li>Instagram : <a href="https://instagram.com/hackintoanetwork">hackintoanetwork</a></li>
 
+# Activity  
+
+<li>CTF Player : Participate in CTF at Zer0hour</li>
+
 # Awards
 
 <li>제2회 충청권 청소년 해킹방어대회 최우수상</li>
@@ -24,10 +28,6 @@ Web Hacker, CTF Player.
 <li>제3회 KOSPO 웹서비스 정보보안 경진대회 청소년 부문 우수상</li>
 <li>The Hacking Championship Junior 2022 장려상</li>
 <li>2022 충북 해킹캠프 BEST HACKER 상</li>
-
-# Activity  
-
-<li>CTF Player : Participate in CTF at Zer0hour</li>
 
 # Education
 
